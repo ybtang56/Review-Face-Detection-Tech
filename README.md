@@ -14,3 +14,9 @@ There are some source codes or online platform to test the face detection algori
 ### 1. opencv default haarcascade_frontface model 
 Online URL: https://docs.opencv.org/3.4/df/d6c/tutorial_js_face_detection_camera.html
 Result: Failed badly on `1# and 2#`
+
+
+## Tutorial of FaceDetection
+
+### dlib in Python
+https://blog.csdn.net/sunmc1204953974/article/details/49976045
