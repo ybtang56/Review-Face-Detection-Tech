@@ -17,6 +17,7 @@ There are some common issues in face detection
 
 ## 0. Opencv (default haarcascade_frontface model)
 Online URL: https://docs.opencv.org/3.4/df/d6c/tutorial_js_face_detection_camera.html
+
 Result: Failed badly on `1# and 2#`
 
 ## 1. MTCNN (Multi-Task CNN)
