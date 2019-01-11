@@ -27,3 +27,8 @@ Result: Failed badly on `1# and 2#`
 ### dlib in Python
 Dlib tutorial (Python): https://blog.csdn.net/sunmc1204953974/article/details/49976045
 
+这篇博客所述的人脸标记的算法也是来自Dlib库，Dlib实现了One Millisecond Face Alignment with an Ensemble of Regression Trees中的算法（http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf，作者为Vahid Kazemi 和Josephine Sullivan）
+
+Dlib (C++ or Python)实现了这篇最新论文的算法，所以Dlib的人脸标记算法是十分先进的，而且Dlib自带的人脸检测库也很准确，我们项目受到硬件所限，摄像头拍摄到的画面比较模糊，而在这种情况下之前尝试了几个人脸库，识别率都非常的低，而Dlib的效果简直出乎意料。
+
+
